@@ -1,0 +1,21 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+h1 {
+    margin-bottom: 40px;
+}
+label {
+    color: #333;
+}
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    margin-bottom: 20px;
+}
+.help-block.with-errors {
+    color: #ff5050;
+    margin-top: 5px;
+}
+.alert-success{background-color:#17a2b8;color: white;}
+.btn-send{margin-top: 6px;}
